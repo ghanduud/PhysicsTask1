@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\AABBCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:AABBCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\PhysicsWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:PhysicsWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\SATCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:SATCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Particle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:Particle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Vector2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:Vector2d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Vector2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:Vector2d.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Particle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:Particle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\PhysicsWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:PhysicsWorld.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CB39F67-086B-E1B4-7172-BA105D497CA5}|sfml_tasks.vcxproj|solutionrelative:Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 300,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ViewState": "AgIAAFAHAAAAAAAAAAAhwF8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T21:30:06.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AABBCollider.h",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\AABBCollider.h",
+              "RelativeDocumentMoniker": "AABBCollider.h",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\AABBCollider.h",
+              "RelativeToolTip": "AABBCollider.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T18:59:49.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhysicsWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\PhysicsWorld.cpp",
+              "RelativeDocumentMoniker": "PhysicsWorld.cpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\PhysicsWorld.cpp*",
+              "RelativeToolTip": "PhysicsWorld.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T12:24:07.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collider.h",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Collider.h",
+              "RelativeDocumentMoniker": "Collider.h",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Collider.h",
+              "RelativeToolTip": "Collider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T13:07:34.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SATCollider.h",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\SATCollider.h",
+              "RelativeDocumentMoniker": "SATCollider.h",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\SATCollider.h",
+              "RelativeToolTip": "SATCollider.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T13:07:29.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Particle.h",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Particle.h",
+              "RelativeDocumentMoniker": "Particle.h",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Particle.h",
+              "RelativeToolTip": "Particle.h",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T12:10:10.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Renderer.cpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Renderer.cpp",
+              "RelativeToolTip": "Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T12:02:25.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\src\\main.cpp*",
+              "RelativeToolTip": "..\\src\\main.cpp*",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T12:41:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Particle.cpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Particle.cpp",
+              "RelativeDocumentMoniker": "Particle.cpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Particle.cpp",
+              "RelativeToolTip": "Particle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T12:25:23.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhysicsWorld.h",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\PhysicsWorld.h",
+              "RelativeDocumentMoniker": "PhysicsWorld.h",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\PhysicsWorld.h",
+              "RelativeToolTip": "PhysicsWorld.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T12:08:36.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Renderer.h",
+              "RelativeDocumentMoniker": "Renderer.h",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Renderer.h",
+              "RelativeToolTip": "Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T12:01:41.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vector2d.h",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Vector2d.h",
+              "RelativeDocumentMoniker": "Vector2d.h",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Vector2d.h",
+              "RelativeToolTip": "Vector2d.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T11:44:19.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vector2d.cpp",
+              "DocumentMoniker": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Vector2d.cpp",
+              "RelativeDocumentMoniker": "Vector2d.cpp",
+              "ToolTip": "C:\\Users\\omarg\\OneDrive\\Desktop\\PhysicsTask1\\build\\Vector2d.cpp",
+              "RelativeToolTip": "Vector2d.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T11:45:16.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
